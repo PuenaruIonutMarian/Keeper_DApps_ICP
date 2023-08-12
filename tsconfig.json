@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "target": "es2018", /* Use a newer version like "es2021" or "ESNext" if applicable. */
+    "lib": [
+      "ES2018",
+      "DOM"
+    ], /* Include necessary libraries. */
+    "allowJs": true, /* Allow JavaScript files to be compiled if needed. Set to false if using only TypeScript. */
+    "jsx": "react" /* Use "react" if using React. */
+  },
+  "include": [
+    "src/**/*"
+  ]
+}
